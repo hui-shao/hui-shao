@@ -15,7 +15,7 @@
 
 ### My preference
 
-- :pencil2: Python / C / C++ / C# / Java
+- :pencil2: C / C++ / Python / Verilog / Java
 - :hammer_and_pick: Windows 10 / Ubuntu / VS Code / Chrome
 
 ### More information
