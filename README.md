@@ -12,6 +12,13 @@
 
 <p align="left">
   <img width="52.5%" src="https://github-readme-stats-hui-shao.vercel.app/api?username=hui-shao&show_icons=true&count_private=true&include_all_commits=true&title_color=006df9&icon_color=f3437a&bg_color=32,ccffd8,9effe9,75eaff">
-  <img width="46.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/top-langs/?username=hui-shao&layout=compact">
+  <img width="46.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/top-langs/?username=hui-shao&layout=compact&langs_count=6">
 </p>
 
+### Extra Pins
+<p align="left">
+  <img width="48%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=python-webspider">
+  <img width="48%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=AlwaysOnNumLock">
+  <img width="48%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=StartMenuButtonHider">
+  <img width="48%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=Xshell7_Xftp7_Mod">
+</p>
