@@ -7,8 +7,7 @@
 
 ### More information
 
-- **Homepage**: <https://hui-shao.cn/>
-- **About me**: <https://hui-shao.cn/about/>
+- **Homepage**: <https://hui-shao.com/>
 
 <p align="left">
   <img width="52.5%" src="https://github-readme-stats-hui-shao.vercel.app/api?username=hui-shao&card_width=500&show_icons=true&count_private=true&include_all_commits=true&title_color=006df9&icon_color=f3437a&bg_color=32,ccffd8,9effe9,75eaff">
