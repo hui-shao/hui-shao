@@ -19,5 +19,5 @@
   <a href="https://github.com/hui-shao/python-webspider"><img width="49.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=python-webspider"></a>
   <a href="https://github.com/hui-shao/AlwaysOnNumLock"><img width="49.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=AlwaysOnNumLock"></a>
   <a href="https://github.com/hui-shao/StartMenuButtonHider"><img width="49.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=StartMenuButtonHider"></a>
-  <a href="https://github.com/hui-shao/Xshell7_Xftp7_Mod"><img width="49.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=Xshell7_Xftp7_Mod"></a>
+  <a href="https://github.com/hui-shao/qbit_speed_limit_per_tracker"><img width="49.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=qbit_speed_limit_per_tracker"></a>
 </p>
