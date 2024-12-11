@@ -19,5 +19,7 @@
   <a href="https://github.com/hui-shao/python-webspider"><img width="49.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=python-webspider"></a>
   <a href="https://github.com/hui-shao/AlwaysOnNumLock"><img width="49.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=AlwaysOnNumLock"></a>
   <a href="https://github.com/hui-shao/StartMenuButtonHider"><img width="49.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=StartMenuButtonHider"></a>
+  <a href="https://github.com/hui-shao/AliyunOSS_Cert_Update"><img width="49.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=AliyunOSS_Cert_Update"></a>
   <a href="https://github.com/hui-shao/qbit_speed_limit_per_tracker"><img width="49.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=qbit_speed_limit_per_tracker"></a>
+  <a href="https://github.com/hui-shao/qbit_skip_check"><img width="49.5%" src="https://github-readme-stats-hui-shao.vercel.app/api/pin?username=hui-shao&repo=qbit_skip_check"></a>
 </p>
